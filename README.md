@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Page
 
-- On the left of the 'Pinned' section include the microservices and proxy I created for the frontend capstone at Hack Reactor. My team and I recreated Steam's item page from the ground up.
+- Included on the left of the 'Pinned' section are the microservices and proxy I created for my frontend capstone at Hack Reactor. My team and I recreated Steam's item page from the ground up which works with 100 unique titles.
 
 
 
