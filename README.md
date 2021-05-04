@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Page
 
-- A recreation of Steam's item page
+- On the left of the pinned section include microservices and proxy I created for the frontend capstone at Hack Reactor. My team and I recreated Steam's item page from the ground up.
 
 
 
