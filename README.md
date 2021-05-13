@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Page
 
-### Tech Toolbox
+### Main Tech Toolbox
 
 <p align="left">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.britefish.net%2Fwp-content%2Fuploads%2F2019%2F06%2Flogo-javascript-2.png&f=1&nofb=1" alt="javascript" width="45" height="40"/> 
@@ -17,18 +17,18 @@
 
 <table><tr><td valign="top" width="50%">
 
-### Frontend Capstone (Steam Item Page Clone)
+### Frontend Capstone (Steam Clone)
 
-- [Game Description and Image Carousel Service](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
-- ["More Like This" Service](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
-- [Node.js/Express Reverse-Proxy](https://ayushirawat.com/best-ides-for-python)
+- [Game Description and Image Carousel Service](https://github.com/munzmoses/game-info-and-carousel)
+- ["More Like This" Service](https://github.com/munzmoses/more-like-this-service)
+- [Node.js/Express Reverse-Proxy](https://github.com/munzmoses/collin-fec-proxy)
 </td>
 <td valign="top" width="50%">
 
-### Systems Design Capstone
+### Systems Design Capstone (WeWork Clone)
 
-- ["Nearby Workspaces" Service](https://www.youtube.com/watch?v=HrTQqSKWClE)
-- [Nginx Reverse-Proxy and SSR Setup](https://www.youtube.com/watch?v=C0YFYXfaEDM)
+- ["Nearby Workspaces" Service](https://github.com/munzmoses/nearby-workspaces)
+- [Nginx Reverse-Proxy Config and Node.js/Express SSR Setup](https://github.com/munzmoses/collin-sdc-proxy)
 </td>
 
 <h3 align="center">Check Out My Capstone Projects</h3>
