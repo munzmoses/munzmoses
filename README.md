@@ -17,30 +17,21 @@
 
 <table><tr><td valign="top" width="50%">
 
-### My Latest Blog Posts 🌱
-<!-- BLOG-POST-LIST:START -->
-- [Automate Cowin Vaccine slots Availablity using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
-- [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
-- [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
-- [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
-- [Top 5 Languages to Learn to Get a Job in 2021](https://ayushirawat.com/top-5-languages-to-learn-to-get-a-job-in-2021)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://ayushirawat.com/)
+### Frontend Capstone (Steam Item Page Clone)
+
+- [Game Description and Image Carousel Service](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- ["More Like This" Service](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
+- [Node.js/Express Reverse-Proxy](https://ayushirawat.com/best-ides-for-python)
 </td>
 <td valign="top" width="50%">
 
-### My Latest YouTube Videos 🌱
-<!-- YOUTUBE:START -->
-- [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
-- [What is Competitive Programming ](https://www.youtube.com/watch?v=C0YFYXfaEDM)
-- [Top 5 IDE's for Python ](https://www.youtube.com/watch?v=OMpENyXDKuM)
-- [How to Perform Google Search using Python ](https://www.youtube.com/watch?v=JO_2EjW0jSM)
-- [1295. Find Numbers with Even Number of Digits ](https://www.youtube.com/watch?v=YJGii6LL-Es)
-<!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+### Systems Design Capstone
+
+- ["Nearby Workspaces" Service](https://www.youtube.com/watch?v=HrTQqSKWClE)
+- [Nginx Reverse-Proxy and SSR Setup](https://www.youtube.com/watch?v=C0YFYXfaEDM)
 </td>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Check Out My Capstone Projects</h3>
 
 <!--
 **munzmoses/munzmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
