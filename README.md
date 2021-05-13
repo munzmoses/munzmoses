@@ -1,4 +1,5 @@
 # Hi I'm Collin McMahon, Welcome to my Github
+[<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ### Main Tech Toolbox
@@ -34,7 +35,8 @@
 
 <h3 align="center">Check Out My Capstone Projects</h3>
 
-[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
+[linkedin]: https://www.linkedin.com/in/collinmcmahon1995/
+[gmail]: cmcmahondev@gmail.com
 
 
 <!--
