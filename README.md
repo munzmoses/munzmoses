@@ -1,4 +1,5 @@
-### Welcome to My GitHub Page
+# Hi I'm Collin McMahon, Welcome to my Github
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ### Main Tech Toolbox
 
