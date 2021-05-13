@@ -16,6 +16,8 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.splunk.com%2Fcontent%2Fdam%2Fsplunk-blogs%2Fimages%2F2017%2F02%2Fnginx-logo.png&f=1&nofb=1" alt="nginx" height="40"/>
 </p>
 
+---
+
 * My primary coding language: Javascript
 * Passionate for learning & exploring new Tech.
 * [Hack Reactor](https://www.hackreactor.com/) Alum.
