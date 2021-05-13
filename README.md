@@ -28,14 +28,14 @@
 
 - [Game Description and Image Carousel Service](https://github.com/munzmoses/game-info-and-carousel)
 - ["More Like This" Service](https://github.com/munzmoses/more-like-this-service)
-- [Node.js/Express Reverse-Proxy](https://github.com/munzmoses/collin-fec-proxy)
+- [Express Reverse-Proxy](https://github.com/munzmoses/collin-fec-proxy)
 </td>
 <td valign="top" width="50%">
 
 ### Systems Design Capstone (WeWork Clone)
 
 - ["Nearby Workspaces" Service](https://github.com/munzmoses/nearby-workspaces)
-- [Nginx Reverse-Proxy Config and Node.js/Express SSR Setup](https://github.com/munzmoses/collin-sdc-proxy)
+- [Nginx Reverse-Proxy Config and Express SSR with React](https://github.com/munzmoses/collin-sdc-proxy)
 </td>
 
 <h3 align="center">Check Out My Capstone Projects</h3>
