@@ -1,7 +1,5 @@
 ### Welcome to My GitHub Page
 
-- Included on the left of the 'Pinned' section are the microservices and proxy I created for my frontend capstone at Hack Reactor. My team and I recreated Steam's item page from the ground up which works with 100 unique titles.
-
 ### Tech Toolbox
 
 <p align="left">
@@ -14,6 +12,35 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.splunk.com%2Fcontent%2Fdam%2Fsplunk-blogs%2Fimages%2F2017%2F02%2Fnginx-logo.png&f=1&nofb=1" alt="nginx" height="40"/>
 </p>
+
+---
+
+<table><tr><td valign="top" width="50%">
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+- [Automate Cowin Vaccine slots Availablity using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
+- [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
+- [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
+- [Top 5 Languages to Learn to Get a Job in 2021](https://ayushirawat.com/top-5-languages-to-learn-to-get-a-job-in-2021)
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://ayushirawat.com/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+- [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
+- [What is Competitive Programming ](https://www.youtube.com/watch?v=C0YFYXfaEDM)
+- [Top 5 IDE's for Python ](https://www.youtube.com/watch?v=OMpENyXDKuM)
+- [How to Perform Google Search using Python ](https://www.youtube.com/watch?v=JO_2EjW0jSM)
+- [1295. Find Numbers with Even Number of Digits ](https://www.youtube.com/watch?v=YJGii6LL-Es)
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+</td>
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--
 **munzmoses/munzmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
