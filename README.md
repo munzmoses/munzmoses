@@ -18,7 +18,7 @@
 
 * My primary coding language: Javascript
 * Passionate for learning & exploring new Tech.
-* [Hack Reactor Alum](https://www.hackreactor.com/).
+* [Hack Reactor](https://www.hackreactor.com/) Alum.
 
 <table><tr><td valign="top" width="50%">
 
