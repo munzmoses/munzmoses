@@ -34,6 +34,9 @@
 
 <h3 align="center">Check Out My Capstone Projects</h3>
 
+[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
+
+
 <!--
 **munzmoses/munzmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
