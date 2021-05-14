@@ -41,7 +41,7 @@
 <h3 align="center">Check Out My Capstone Projects</h3>
 
 [linkedin]: https://www.linkedin.com/in/collinmcmahon1995/
-[gmail]: cmcmahondev@gmail.com
+[gmail]: mailto:cmcmahondev@gmail.com&subject=subjectline&body=body
 [resume]: https://drive.google.com/file/d/1V8wWS9lqNwe1AN5qF88gSjfRsu_9L3pT/view?usp=sharing
 
 
