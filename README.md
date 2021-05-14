@@ -1,4 +1,4 @@
-# Hi I'm Collin McMahon, Welcome To My GitHub Page 
+# Welcome To My GitHub Page 
 [<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
@@ -41,7 +41,7 @@
 <h3 align="center">Check Out My Capstone Projects</h3>
 
 [linkedin]: https://www.linkedin.com/in/collinmcmahon1995/
-[gmail]: cmcmahondev@gmail.com
+[gmail]: mailto:cmcmahondev@gmail.com
 [resume]: https://drive.google.com/file/d/1V8wWS9lqNwe1AN5qF88gSjfRsu_9L3pT/view?usp=sharing
 
 
