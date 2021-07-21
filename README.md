@@ -43,7 +43,7 @@
 
 [linkedin]: https://www.linkedin.com/in/collinmcmahon1995/
 [gmail]: mailto:cmcmahondev@gmail.com
-[resume]: https://drive.google.com/file/d/1V8wWS9lqNwe1AN5qF88gSjfRsu_9L3pT/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1R6RLnQPmwMAnhy21L3kIsWo8X3BTNkQV/view?usp=sharing
 
 
 <!--
