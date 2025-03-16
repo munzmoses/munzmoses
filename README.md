@@ -2,7 +2,7 @@
 [<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
-
+<!--
 ### Main Tech Toolbox
 
 <p align="left">
@@ -40,23 +40,8 @@
 </td>
 
 <h3 align="center">Check Out My Capstone Projects</h3>
-
+-->
 [linkedin]: https://www.linkedin.com/in/collinmcmahon1995/
 [gmail]: mailto:cmcmahondev@gmail.com
 [resume]: https://drive.google.com/file/d/1R6RLnQPmwMAnhy21L3kIsWo8X3BTNkQV/view?usp=sharing
 
-
-<!--
-**munzmoses/munzmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
