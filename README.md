@@ -3,7 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
 
-<!--
+
 ### Main Tech Toolbox
 
 <p align="left">
@@ -18,6 +18,7 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.splunk.com%2Fcontent%2Fdam%2Fsplunk-blogs%2Fimages%2F2017%2F02%2Fnginx-logo.png&f=1&nofb=1" alt="nginx" height="40"/>
 </p>
 
+<!--
 ---
 
 * My primary coding language: Javascript
