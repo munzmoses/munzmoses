@@ -3,6 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
 
+<!--
 ### Main Tech Toolbox
 
 <p align="left">
@@ -46,7 +47,6 @@
 [resume]: https://drive.google.com/file/d/1R6RLnQPmwMAnhy21L3kIsWo8X3BTNkQV/view?usp=sharing
 
 
-<!--
 **munzmoses/munzmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
