@@ -1,7 +1,7 @@
 # Welcome To My GitHub Page 
-<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />
+[<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
 
 <!--
 
