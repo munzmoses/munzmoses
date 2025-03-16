@@ -1,8 +1,9 @@
 # Welcome To My GitHub Page 
-[<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
+<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />
 
+<!--
 
 ### Main Tech Toolbox
 
@@ -17,8 +18,6 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.splunk.com%2Fcontent%2Fdam%2Fsplunk-blogs%2Fimages%2F2017%2F02%2Fnginx-logo.png&f=1&nofb=1" alt="nginx" height="40"/>
 </p>
-
-<!--
 ---
 
 * My primary coding language: Javascript
