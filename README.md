@@ -3,8 +3,6 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/resume-gold.svg?&style=for-the-badge" />][Resume]
 
-<!--
-
 ### Main Tech Toolbox
 
 <p align="left">
@@ -18,6 +16,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.splunk.com%2Fcontent%2Fdam%2Fsplunk-blogs%2Fimages%2F2017%2F02%2Fnginx-logo.png&f=1&nofb=1" alt="nginx" height="40"/>
 </p>
+
 ---
 
 * My primary coding language: Javascript
@@ -47,6 +46,7 @@
 [resume]: https://drive.google.com/file/d/1R6RLnQPmwMAnhy21L3kIsWo8X3BTNkQV/view?usp=sharing
 
 
+<!--
 **munzmoses/munzmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
